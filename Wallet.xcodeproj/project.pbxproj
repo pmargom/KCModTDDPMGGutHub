@@ -17,6 +17,7 @@
 		7914AA451CD745A40033A1C2 /* PMGSimpleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7914AA431CD745A40033A1C2 /* PMGSimpleViewController.xib */; };
 		7914AA4B1CD74E2B0033A1C2 /* PMGWalletTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7914AA4A1CD74E2B0033A1C2 /* PMGWalletTableViewController.m */; };
 		7914AA561CD8D1650033A1C2 /* PMGControllersTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 7914AA551CD8D1650033A1C2 /* PMGControllersTest.m */; };
+		7914AA5A1CD8F3B80033A1C2 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 7914AA591CD8F3B80033A1C2 /* README.md */; };
 		79C3E2B61CD49BA600F8A5E5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 79C3E2B51CD49BA600F8A5E5 /* main.m */; };
 		79C3E2B91CD49BA600F8A5E5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 79C3E2B81CD49BA600F8A5E5 /* AppDelegate.m */; };
 		79C3E2BB1CD49BA600F8A5E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79C3E2BA1CD49BA600F8A5E5 /* Assets.xcassets */; };
@@ -50,6 +51,7 @@
 		7914AA491CD74E2B0033A1C2 /* PMGWalletTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PMGWalletTableViewController.h; sourceTree = "<group>"; };
 		7914AA4A1CD74E2B0033A1C2 /* PMGWalletTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMGWalletTableViewController.m; sourceTree = "<group>"; };
 		7914AA551CD8D1650033A1C2 /* PMGControllersTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMGControllersTest.m; sourceTree = "<group>"; };
+		7914AA591CD8F3B80033A1C2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		79C3E2B11CD49BA600F8A5E5 /* Wallet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wallet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79C3E2B51CD49BA600F8A5E5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		79C3E2B71CD49BA600F8A5E5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 		79C3E2A81CD49BA600F8A5E5 = {
 			isa = PBXGroup;
 			children = (
+				7914AA591CD8F3B80033A1C2 /* README.md */,
 				79C3E2B31CD49BA600F8A5E5 /* Wallet */,
 				79C3E2C71CD49BA600F8A5E5 /* WalletTests */,
 				79C3E2B21CD49BA600F8A5E5 /* Products */,
@@ -311,6 +314,7 @@
 				7914AA561CD8D1650033A1C2 /* PMGControllersTest.m in Sources */,
 				7914AA361CD61F820033A1C2 /* PMGBrokerTest.m in Sources */,
 				79C3E2F21CD4BEE200F8A5E5 /* PMGMoneyTest.m in Sources */,
+				7914AA5A1CD8F3B80033A1C2 /* README.md in Sources */,
 				7914AA3A1CD620720033A1C2 /* PMGBroker.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
