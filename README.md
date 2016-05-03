@@ -10,4 +10,4 @@ $2 + $4 + $5 + $3 + €15 + €10 + €100 = €132 (rate $2:€1).
 
 The result screen in your iPhone should be the following:
 
-(http://i.imgur.com/xxKgpx0.png?1)
+![ Wallet sample](http://i.imgur.com/xxKgpx0.png?1)
